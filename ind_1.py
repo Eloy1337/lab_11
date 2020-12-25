@@ -24,4 +24,3 @@ if __name__ == '__main__':
 
     for line in per(arr):
         print("Вывод: ", line)
-
